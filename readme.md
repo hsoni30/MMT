@@ -13,3 +13,5 @@ To hide field from sending to client but we need proper data structure for that 
 Or we need separate data class and Model class
 *) Date format can also be done either in sql or in Model Data
 *) If Order is null we are hiding data in json by [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+
+*) Make all interfaces and implement it
